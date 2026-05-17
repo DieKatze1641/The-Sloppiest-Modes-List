@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Game Link</div>
-                            <p>level.gamelink</p>
+                            <p>{{ level.gamelink }}</p>
                     </ul>
                     <h2>Records</h2>
                     <table class="records">
