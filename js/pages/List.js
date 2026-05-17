@@ -46,6 +46,9 @@ export default {
                             <div class="type-title-sm">Points when completed</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">Game Link</div>
+                            <p>level.gamelink</p>
                     </ul>
                     <h2>Records</h2>
                     <table class="records">
