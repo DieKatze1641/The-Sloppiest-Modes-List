@@ -44,10 +44,6 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Game Link:</div>
-            <p class="type-body">
-                <span>{{ gamelink }}</span>
-            </p>
         </div>
     `,
 
