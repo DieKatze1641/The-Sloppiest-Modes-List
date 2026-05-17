@@ -1,6 +1,6 @@
 export default {
     props: {
-        author: {
+        gamelink: {
             type: String,
             required: true,
         },
