@@ -43,6 +43,10 @@ export default {
                 <p class="type-body">
                     <span>{{ verifier }}</span>
                 </p>
+                <div class="type-title-sm">Game</div>
+                <p class="type-body">
+                    <span>{{ gamename }}</span>
+                </p>
             </template>
         </div>
     `,
