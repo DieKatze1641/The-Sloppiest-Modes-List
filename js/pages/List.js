@@ -98,7 +98,7 @@ export default {
                         Examples of games able to place: One Night At Mr.Hugs, any of DieKatze1641's games, Sunken Custom Night.
                     </p>
                     <p>
-                        Examples of games not able to place: One Night at Mr. Hugs: But Better!, Five Nights at The Gang's, FNATG: Reborn, One Night at Chica's Magic Rainbow's
+                        Examples of games not able to place: One Night at Mr. Hugs: But Better!, Five Nights at The Gang's, FNATG: Reborn, One Night at Chica's Magic Rainbow's.
                     </p>
                 </div>
             </div>
