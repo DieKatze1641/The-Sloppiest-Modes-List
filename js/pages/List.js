@@ -92,7 +92,7 @@ export default {
                         Modes not placed on the AML can also place if they are sloppy enough.
                     </p>
                     <p>
-                        For a mode to be considered "sloppy", it needs to be low quality AND made in either Scratch or Roblox. If a mode is prevented from placing on the MML Main List due to being low quality, it can place here.
+                        For a mode to be considered "sloppy", it needs to be low quality AND made in either Scratch or Roblox. If a mode is prevented from placing on the MML Main List due to being low quality, it can place here, although some games on the Main List may still place here.
                     </p>
                     <p>
                         Examples of games able to place: One Night At Mr.Hugs, any of DieKatze1641's games, Sunken Custom Night.
