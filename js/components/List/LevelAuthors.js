@@ -1,6 +1,6 @@
 export default {
     props: {
-        gamelink: {
+        gamename: {
             type: String,
             required: true,
         },
