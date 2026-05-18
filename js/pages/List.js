@@ -86,13 +86,19 @@ export default {
                     </template>
                     <h3>Important Notes</h3>
                     <p>
-                        This list aims to rank all of the modes either created by DieKatze1641 or are remakes (or "Remastered" w/ "But Better" games) of one of DieKatze1641's games.
+                        This list is a ranking of the sloppiest modes on the AML, according to their rankings on the 90/10 split.
                     </p>
                     <p>
-                        All records from the AML will be ported soon after they are accepted on the AML, I will check frequently.
+                        Modes not placed on the AML can also place if they are sloppy enough.
                     </p>
                     <p>
-                        I personally don't know why I wanted to make this list but here you go I guess its a list of the worst games on the AML lololololol (aint NOBODY using ts list)
+                        For a mode to be considered "sloppy", it needs to be low quality AND made in either Scratch or Roblox. If a mode is prevented from placing on the MML Main List due to being low quality, it can place here.
+                    </p>
+                    <p>
+                        Examples of games able to place: One Night At Mr.Hugs, any of DieKatze1641's games, Sunken Custom Night.
+                    </p>
+                    <p>
+                        Examples of games not able to place: One Night at Mr. Hugs: But Better!, Five Nights at The Gang's, FNATG: Reborn, One Night at Chica's Magic Rainbow's
                     </p>
                 </div>
             </div>
